@@ -3,15 +3,15 @@
 <h1>PI-Light: Physics-Inspired Diffusion for Full-Image Relighting</h1>
 
 <div>
-    <a href='https://zhexinliang.github.io/' target='_blank'>Zhexin Liang</a>&emsp;
-    <a href='' target='_blank'>Zhaoxi Chen</a>&emsp;
-    <a href='' target='_blank'>Yongwei Chen</a>&emsp;
-    <a href='' target='_blank'>Tianyi Wei</a>&emsp;
-    <a href='' target='_blank'>Tengfei Wang</a>&emsp;
-    <a href='' target='_blank'>Xingang Pan</a>
+    <a href='https://zhexinliang.github.io/' target='_blank'>Zhexin Liang</a><sup>1</sup>&emsp;
+    <a href='' target='_blank'>Zhaoxi Chen</a><sup>1</sup>&emsp;
+    <a href='' target='_blank'>Yongwei Chen</a><sup>1</sup>&emsp;
+    <a href='' target='_blank'>Tianyi Wei</a><sup>1</sup>&emsp;
+    <a href='' target='_blank'>Tengfei Wang</a><sup>2</sup>&emsp;
+    <a href='' target='_blank'>Xingang Pan</a><sup>1</sup>
 </div>
 <div>
-    S-Lab, Nanyang Technological University&emsp; Tencent
+    <sup>1</sup>S-Lab, Nanyang Technological University&emsp; <sup>2</sup>Tencent
 </div>
 
 <div>
@@ -19,9 +19,15 @@
 </div>
  <div>
     <h4 align="center">
-        <a href="https://arxiv.org/abs/2303.17569" target='_blank'>[arXiv]</a> •
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ZhexinLiang/PI-Light&count_bg=%233977DD&title_bg=%23555555&title=Visitors&edge_flat=false"/>
+       </a>
+         <a href="https://arxiv.org/abs/2402.10855" target='_blank'>
+        <img src="https://img.shields.io/badge/arXiv-2402.10855-b31b1b.svg">
+        </a> 
+         <a href="https://hits.dwyl.com/ZhexinLiang/PI-Light" target="_blank">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FZhexinLiang%2FPI-Light&logoColor=00000&label=Visitors&color=3977dd">
+</a>
     </h4>
 </div> 
+
 
 🚀 Code will be available in March. Please stay tuned. Thank you for your interest.✨
