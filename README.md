@@ -20,8 +20,8 @@
  <div>
     <h4 align="center">
        </a>
-         <a href="https://arxiv.org/abs/2402.10855" target='_blank'>
-        <img src="https://img.shields.io/badge/arXiv-2402.10855-b31b1b.svg">
+         <a href="https://arxiv.org/abs/2601.22135" target='_blank'>
+        <img src="https://img.shields.io/badge/arXiv-2601.22135-b31b1b.svg">
         </a> 
          <a href="https://hits.dwyl.com/ZhexinLiang/PI-Light" target="_blank">
     <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FZhexinLiang%2FPI-Light&logoColor=00000&label=Visitors&color=3977dd">
